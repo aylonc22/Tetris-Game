@@ -1,0 +1,20 @@
+.nextPiece{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    border: solid;
+    width: 150px;
+    height: 150px;
+    margin-left: 25%;
+}
+
+.nextPiece-row{
+    display: flex;
+}
+
+.nextPiece-cell{
+    width: 20px;
+    height: 20px;
+}
