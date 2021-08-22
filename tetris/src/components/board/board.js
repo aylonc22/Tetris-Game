@@ -15,7 +15,7 @@ const Board = props =>{
         case "5":
             return "#F6BB42"; //Yellow  
         default:
-            return "white"; //Default "0"  
+            return "#000612"; //Default "0"  
     }
 };
     return(
